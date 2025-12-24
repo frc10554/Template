@@ -98,7 +98,7 @@ local.properties
 .apt_generated_tests
 
 # RoboRIO Deploy
-deploy/
+/deploy/
 # AdvantageKit logs
 *.wpilog
 
